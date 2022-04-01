@@ -9009,7 +9009,7 @@
                                     <param id="3" name="Y">80</param>
                                 </action>
                                 <action id="0" name="Set text" sid="7937555221357879" type="MarioText">
-                                    <param id="0" name="Text">&quot;THANK YOU MARIO!&quot;</param>
+                                    <param id="0" name="Text">&quot;SNYGGT VINGLAT, BERRA!&quot;</param>
                                 </action>
                                 <action id="-16" name="Wait" sid="1374064331700566" type="System">
                                     <param id="0" name="Seconds">128/60</param>
@@ -9021,7 +9021,7 @@
                                     <param id="3" name="Y">112</param>
                                 </action>
                                 <action id="0" name="Set text" sid="2518307393098534" type="MarioText">
-                                    <param id="0" name="Text">&quot;BUT OUR PRINCESS IS IN&quot; &amp; newline &amp; newline &amp; &quot;ANOTHER CASTLE!&quot;</param>
+                                    <param id="0" name="Text">&quot;MEN PEPES BODEGA ÄR&quot; &amp; newline &amp; newline &amp; &quot;I ETT ANNAT KÖPCENTER!&quot;</param>
                                 </action>
                                 <action id="-16" name="Wait" sid="6914193394501781" type="System">
                                     <param id="0" name="Seconds">128/60 + 6*21/60</param>
